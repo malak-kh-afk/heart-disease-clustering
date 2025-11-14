@@ -1,7 +1,8 @@
-# 🌸 Clustering Mini Project — Customer Segmentation
+# 🌸 Clustering Mini Project — Heart Patients Dataset
 
-This project demonstrates **unsupervised machine learning** techniques  
-to group customers into meaningful clusters using:
+This project demonstrates **unsupervised clustering analysis** on a dataset of heart patients.  
+The goal is to identify **patterns and groups** in the dataset without using the target variable.
+
 
 - **K-means**
 - **K-medoids**
